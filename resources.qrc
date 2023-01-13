@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>erase.png</file>
+        <file>export.png</file>
+        <file>mirror.png</file>
+        <file>open.png</file>
+        <file>pen.png</file>
+        <file>save.png</file>
+        <file>transform.png</file>
+        <file>paintbrush.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
